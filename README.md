@@ -22,3 +22,13 @@ Here is a list of current project ideas:
 - [Stand alone library to mock http requests ideas](https://github.com/postman-open-technologies/gsoc-2022/issues/1)
 
 We have currently submitted our application an waiting to hear back if we have been accepted.
+
+Frmat for Project Ideas:
+
+a) a project title/description 
+b) more detailed description of the project (2-5+ sentences) 
+c) expected outcomes 
+d) skills required/preferred
+e) possible mentors 
+f) expected size of project (175 or 350 hour) 
+g) an easy, medium or hard difficulty rating of each project.
