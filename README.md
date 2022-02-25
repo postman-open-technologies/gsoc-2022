@@ -25,10 +25,10 @@ We have currently submitted our application an waiting to hear back if we have b
 
 Frmat for Project Ideas:
 
-a) a project title/description 
-b) more detailed description of the project (2-5+ sentences) 
-c) expected outcomes 
-d) skills required/preferred
-e) possible mentors 
-f) expected size of project (175 or 350 hour) 
-g) an easy, medium or hard difficulty rating of each project.
+- a project title/description 
+- more detailed description of the project (2-5+ sentences) 
+- expected outcomes 
+- skills required/preferred
+- possible mentors 
+- expected size of project (175 or 350 hour) 
+- an easy, medium or hard difficulty rating of each project.
